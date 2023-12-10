@@ -1,0 +1,874 @@
+{
+    "LineList": [
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020053011193201962/EPC_text",
+                "Px": "2994.67",
+                "Py": "3042"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231105191452842417/EPin_Ret1",
+                "Px": "2903.67",
+                "Py": "2994"
+            },
+            "LineTag": "202312110138521411514",
+            "LineType": 2
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231105192046619464/EP_CONTROL_TEXT",
+                "Px": "2514.67",
+                "Py": "2994"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020053011133768956/EPin_Ret1",
+                "Px": "2621",
+                "Py": "2774"
+            },
+            "LineTag": "20231211004834828132",
+            "LineType": 2
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231105192046619464/EPin_Flow_In",
+                "Px": "2514.67",
+                "Py": "2970"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231105190536381312/EPin_Flow_Out",
+                "Px": "3293.67",
+                "Py": "2750"
+            },
+            "LineTag": "20231211004831589131",
+            "LineType": 2
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231210235709619273/EPin_Flow_In",
+                "Px": "3084",
+                "Py": "2498"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231210235147865207/EPin_Flow_Out",
+                "Px": "3012.33",
+                "Py": "2450"
+            },
+            "LineTag": "2023121100440882081",
+            "LineType": 2
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231105190332863238/EPin_Flow_In",
+                "Px": "2684.67",
+                "Py": "2750"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020053011133768956/EPin_Flow_Out",
+                "Px": "2621",
+                "Py": "2750"
+            },
+            "LineTag": "20231105190648648318",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231105190536381312/EPin_Flow_In",
+                "Px": "3147.67",
+                "Py": "2750"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231105190955298371/EPin_Flow_Out",
+                "Px": "3049",
+                "Py": "2750"
+            },
+            "LineTag": "20231105191008064373",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231105190955298371/EPin_Flow_In",
+                "Px": "2903",
+                "Py": "2750"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231105190332863238/EPin_Flow_Out",
+                "Px": "2830.67",
+                "Py": "2750"
+            },
+            "LineTag": "20231105191009873374",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231105191452842417/EPin_Flow_In",
+                "Px": "2757.67",
+                "Py": "2970"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231105192046619464/EPin_Flow_Out",
+                "Px": "2660.67",
+                "Py": "2970"
+            },
+            "LineTag": "20231105192056453466",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020053011200266865/EPin_Flow_In",
+                "Px": "3223",
+                "Py": "2970"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020053011193201962/EPin_Flow_Out",
+                "Px": "3140.67",
+                "Py": "2970"
+            },
+            "LineTag": "2020053011195708964",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020053011193201962/EPin_Flow_In",
+                "Px": "2994.67",
+                "Py": "2970"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231105191452842417/EPin_Flow_Out",
+                "Px": "2903.67",
+                "Py": "2970"
+            },
+            "LineTag": "20231105191555090424",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2023121023491311564/EPin_Flow_In",
+                "Px": "2514.67",
+                "Py": "2468"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020053011115875554/EPin_Flow_Out",
+                "Px": "2448",
+                "Py": "2481.33"
+            },
+            "LineTag": "2023121023494694674",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2023121023500550787/EPin_Flow_In",
+                "Px": "2684.67",
+                "Py": "2481.33"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2023121023491311564/EPin_Flow_Out",
+                "Px": "2660.67",
+                "Py": "2468"
+            },
+            "LineTag": "2023121023500588593",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231210235147865207/EPin_Flow_In",
+                "Px": "2866.33",
+                "Py": "2450"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2023121023500550787/EPin_Flow_Out",
+                "Px": "2830.67",
+                "Py": "2481.33"
+            },
+            "LineTag": "20231210235537362211",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "20231210235709619273/EPC_text",
+                "Px": "3084",
+                "Py": "2570"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231210235147865207/EPin_Ret1",
+                "Px": "3012.33",
+                "Py": "2474"
+            },
+            "LineTag": "20231210235711351275",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020053011133768956/EPin_Flow_In",
+                "Px": "2475",
+                "Py": "2750"
+            },
+            "LineNote": "",
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "20231210235709619273/EPin_Flow_Out",
+                "Px": "3230",
+                "Py": "2498"
+            },
+            "LineTag": "202312110014240752916",
+            "LineType": 0
+        }
+    ],
+    "NodeList": [
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 34,
+                    "mouse_y": 251
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_20231210235530677210"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EP_CONTROL_CHROME_ATTRMAP": "{\n    \"val\": \"eyJoYXNSZWFjaGVkUmVsYXRpdmVBbmNlc3RvciI6ImZhbHNlIiwiaXNUYWJsZSI6ImZhbHNlIiwibm9kZUhpZXJhcmNoeUluZm8iOlt7ImlzUHJlc2VudEluU2VsZWN0b3IiOjEsIm90aGVyQXR0cmlidXRlcyI6e30sInNlbGVjdG9ySW5mbyI6eyJhdHRyaWJ1dGVzIjp7ImNzcy1zZWxlY3RvciI6IiNjTGlzdCIsImlkIjoiY0xpc3QiLCJ0YWciOiJESVYiLCJ4cGF0aCI6Ii8vKltAaWQ9XCJjTGlzdFwiXSJ9LCJpbmRleCI6MCwidGFnTmFtZSI6IkRJViJ9fV19\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_INPUT": {
+                    "EP_ExtractData": "{\n    \"val\": \"W3siYXR0ciI6WyJ0ZXh0Il0sImV4YWN0IjoxLCJuYW1lIjoiQ29sdW1uMCIsInBhdGgiOlt7InRhZyI6ImRpdiJ9XX1d\"\n}\n"
+                },
+                "EP_PageTurn": {
+                    "EP_CONTROL_CHROME_BUTTTON_ATTRMAP": "{\n    \"check\": \"false\",\n    \"val\": \"eyJoYXNSZWFjaGVkUmVsYXRpdmVBbmNlc3RvciI6ImZhbHNlIiwibm9kZUhpZXJhcmNoeUluZm8iOlt7ImlzUHJlc2VudEluU2VsZWN0b3IiOjEsIm90aGVyQXR0cmlidXRlcyI6e30sInNlbGVjdG9ySW5mbyI6eyJhdHRyaWJ1dGVzIjp7ImFhbmFtZSI6IuS4i+S4gOmhtSIsImNzcy1zZWxlY3RvciI6IiNib3R0b21QYWdlciA+IGRpdjpudGgtY2hpbGQoMSkgPiBhOm50aC1jaGlsZCg3KSIsInBhcmVudGlkIjoiYm90dG9tUGFnZXIiLCJ0YWciOiJBIiwieHBhdGgiOiIvLypbQGlkPVwiYm90dG9tUGFnZXJcIl0vZGl2WzFdL2FbNV0ifSwiaW5kZXgiOjAsInRhZ05hbWUiOiJBIn19XX0=\"\n}\n",
+                    "EP_CONTROL_CHROME_BUTTTON_RUN_MODE": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_CONTROL_CHROME_BUTTTON_ScrollIntoView": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_CONTROL_IMAGE": "{\n    \"check\": \"false\",\n    \"val\": \"J3NuYXBzaG90XzIwMjMxMjEwMjM1NTE4NTYxLnBuZyc=\"\n}\n",
+                    "EP_CONTROL_IMAGE_FUZZY_SIMILARITY": "{\n    \"val\": \"MC44NQ==\"\n}\n"
+                },
+                "EP_PuginConfig": {
+                    "EP_CONTROL_CHROME_BUTTON_sleep": "{\n    \"val\": \"MTAwMDA=\"\n}\n",
+                    "EP_CONTROL_CHROME_limit": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_CONTROL_CHROME_max_size": "{\n    \"val\": \"NTAw\"\n}\n"
+                },
+                "EP_SNAP_SHOT": {
+                    "EP_SNAP_SHOT_PREVIEW": "{\n    \"val\": \"L3NjcmVlbnNob3RzL3NuYXBzaG90XzIwMjMxMjEwMjM1NDUyNDE4LmpwZWc=\"\n}\n"
+                },
+                "EP_TableSetting": {
+                    "EP_CONTROL_CHROME_TABLE_setting": "{\n    \"val\": \"W3siRGF0YVR5cGUiOiJ0ZXh0IiwiSXNUYWJsZSI6MCwiSXNWaXNpYmxlIjoxLCJOYW1lIjoiQ29sdW1uMCIsIlJlZmVyZW5jZU5hbWUiOiJDb2x1bW4wIiwiVmFsdWUiOiLkuK3pk7bnqLPlr4zlsIHpl60yMzE0N+acny0zODflpKnvvIjlkoznm4jvvIlcbuS7o+egge+8mlpZMDEwMjY3XG7kuqflk4HliLDmnJ/ml6XvvJoyMDI1LTAxLTA577yI5pyf6ZmQ77yaMzg35aSp77yJXG7kuJrnu6nmr5TovoPln7rlh4bljLrpl7TvvJozLjEwJeiHszMuNjAlXG7po47pmanor4TnuqfvvJrkuK3kvY7po47pmalcbuWPkeWUrua4oOmBk++8mue9kemTtuS4k+S4mueJiHznvZHpk7blpKfkvJfniYh85omL5py6fOWFqOeQg+i/nue6v+aJi+acunzlhajnkIPov57nur/nvZHpk7ZcbuWPkeWUruWcsO+8muWFqOihjFxu55CG6LSi5Lqn5ZOB55m76K6w57yW56CB77yaWjcwMDEwMjMwMDA1MzFcbuWPkeWUrui1t+Wni+aXpe+8mjIwMjMtMTItMTJcbuWPkeWUruaIquatouaXpe+8mjIwMjMtMTItMThcbuS4mue7qeavlOi+g+WfuuWHhuS4jeS7o+ihqOacquadpeihqOeOsOWSjOWunumZheaUtuebiuOAguacrOeQhui0ouS6p+WTgeS4uuWbuuWumuaUtuebiuexu+S6p+WTge+8jOS7peS6p+WTgeaKlei1hOi0p+W4geW4guWcuuW3peWFt+S7k+S9jTAlLTIwJe+8jOS/oeeUqOWAuuS7k+S9jTAlLTgwJe+8jOmdnuagh+WHhuWMluWAuuadg+exu+i1hOS6p+S7k+S9jTAlLTUwJe+8jOe7hOWQiOadoOadhueOhzExNSXkuLrkvovvvIzkuJrnu6nmr5TovoPln7rlh4blj4LogIPmnKzkuqflk4Hlj5HooYzml7blt7Lnn6XnmoTkuK3lgLot57u85ZCI6LSi5a+M77yIMS0z5bm077yJ5oyH5pWw5pS255uK546H44CB5pyf6ZmQ5Yy56YWN55qE6Z2e5qCH5YeG5YyW5YC65p2D57G76LWE5Lqn5pS255uK546H77yM6ICD6JmR5pys55CG6LSi5Lqn5ZOB57u85ZCI6LS5546H44CB6LWE5pys5Yip5b6X5pS255uK5bm257uT5ZCI5Lqn5ZOB5oqV6LWE562W55Wl6L+b6KGM5rWL566X5b6X5Ye644CCXG7mn6XnnIvmm7TlpJogPiIsImF0dHIiOiJ0ZXh0In1d\"\n}\n"
+                },
+                "EP_WINDOW": {
+                    "EP_CONTROL_CHROME_TITLE": "{\n    \"val\": \"J+aLm+WVhumTtuihjCAtLSDkuKrkurrnkIbotKLkuqflk4En\"\n}\n",
+                    "EP_CONTROL_CHROME_URL": "{\n    \"val\": \"J2h0dHBzOi8vY21iY2hpbmEuY29tLyon\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2873.33",
+                "NodePy": "2466",
+                "NodeSubType": "EnumWidget_Chrome_ExtractData",
+                "NodeTag": "20231210235147865207",
+                "NodeTitle": "结构化抓取"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 1301,
+                    "mouse_y": 1238
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EP_CONTROL_DISTPOS": "{\n    \"val\": \"KDExMjAsMTM3NSk=\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_INPUT": {
+                    "EP_INPUT_MOUSE_CLICK_TIMES": "{\n    \"val\": \"MQ==\"\n}\n",
+                    "EP_INPUT_POSITION": "{\n    \"val\": \"J2xlZnQn\"\n}\n"
+                },
+                "EP_SNAP_SHOT": {
+                    "EP_SNAP_SHOT_PREVIEW": "{\n    \"val\": \"L3NjcmVlbnNob3RzL3NuYXBzaG90XzIwMjMxMjExMDEyMzE3MDE1LmpwZWc=\"\n}\n"
+                },
+                "EP_WINDOW": {
+                    "EP_WINDOW_CLASS": "{\n    \"check\": \"true\",\n    \"val\": \"J0Nocm9tZV9XaWRnZXRXaW5fMSc=\"\n}\n",
+                    "EP_WINDOW_TITLE": "{\n    \"check\": \"true\",\n    \"val\": \"J+aWh+W/g+S4gOiogCAtIEdvb2dsZSBDaHJvbWUn\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "3154.67",
+                "NodePy": "2766",
+                "NodeSubType": "EnumWidget_Region_ClickPos",
+                "NodeTag": "20231105190536381312",
+                "NodeTitle": "点击"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                    {
+                        "GID": "EP_CONTROL"
+                    }
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_20231210235709619274"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EPC_cell": "{\n    \"val\": \"J0syMCc=\"\n}\n",
+                    "EPC_file_type": "{\n    \"val\": \"J2V4Y2VsJw==\"\n}\n",
+                    "EPC_path": "{\n    \"val\": \"J0M6L1VzZXJzL3poZ3VvL0Rlc2t0b3Av6JCl6ZSA5Lqn5ZOBLnhsc3gn\"\n}\n",
+                    "EPC_sheet": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EPC_text": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "3091",
+                "NodePy": "2514",
+                "NodeSubType": "Custom_excel002",
+                "NodeTag": "20231210235709619273",
+                "NodeTitle": "单元格写入"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": {
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_INPUT": {
+                    "EP_NOUTPUTINFO": "[\n    {\n        \"EPin_Par|1\": \"{\\n    \\\"val\\\": \\\"J+WGmeWFpeaIkOWKn++8jOW/q+WOu+aWsOaJk+W8gOeahOihqOagvOS4reafpeeci+WNleWFg+agvE0y5YaZ5YWl55qE5YaF5a655ZCn77yBJw==\\\"\\n}\\n\"\n    }\n]\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePins": [
+                    {
+                        "Pin_EnumID": "EPin_Par|1",
+                        "Pin_EnumPID": "EP_NOUTPUTINFO",
+                        "Pin_GroupID": "-1",
+                        "Pin_ItemName": "输出",
+                        "Pin_Side": "L",
+                        "Pin_Type": "EPin_Par"
+                    }
+                ],
+                "NodePinsDynamicCount": "0",
+                "NodePx": "3230",
+                "NodePy": "2986",
+                "NodeSubType": "EnumWidget_Win_IPrint",
+                "NodeTag": "2020053011200266865",
+                "NodeTitle": "输出"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EP_CONTROL_HOT_ALT": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_CONTROL_HOT_CTRL": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_CONTROL_HOT_SHIFT": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_CONTROL_HOT_WIN": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_CONTROL_TEXT": "{\n    \"val\": \"e0VOVEVSfQ==\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"NDAwMDA=\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n",
+                    "EP_Gen_WAITFOR": "{\n    \"val\": \"MTAwMDA=\"\n}\n"
+                },
+                "EP_SNAP_SHOT": {
+                    "EP_SNAP_SHOT_PREVIEW": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_WINDOW": {
+                    "EP_WINDOW_CLASS": "{\n    \"check\": \"false\",\n    \"val\": \"\"\n}\n",
+                    "EP_WINDOW_TITLE": "{\n    \"check\": \"false\",\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2521.67",
+                "NodePy": "2986",
+                "NodeSubType": "EnumWidget_Key_HotKey",
+                "NodeTag": "20231105192046619464",
+                "NodeTitle": "热键输入"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_2020053011193201963"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EPC_cell": "{\n    \"val\": \"J00yJw==\"\n}\n",
+                    "EPC_file_type": "{\n    \"val\": \"J2V4Y2VsJw==\"\n}\n",
+                    "EPC_path": "{\n    \"val\": \"J0M6L1VzZXJzL3poZ3VvL0Rlc2t0b3Av6JCl6ZSA5Lqn5ZOBLnhsc3gn\"\n}\n",
+                    "EPC_sheet": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EPC_text": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "3001.67",
+                "NodePy": "2986",
+                "NodeSubType": "Custom_excel002",
+                "NodeTag": "2020053011193201962",
+                "NodeTitle": "单元格写入"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 1207,
+                    "mouse_y": 32
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_20231105190955298372"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n",
+                    "EP_Gen_WAITFOR": "{\n    \"val\": \"MTAwMDA=\"\n}\n"
+                },
+                "EP_SNAP_SHOT": {
+                    "EP_SNAP_SHOT_PREVIEW": "{\n    \"val\": \"L3NjcmVlbnNob3RzL3NuYXBzaG90XzIwMjMxMTA1MTkxMDU2MTI2LmpwZWc=\"\n}\n"
+                },
+                "EP_WINDOW": {
+                    "EP_WINDOW_CLASS": "{\n    \"check\": \"true\",\n    \"val\": \"J0Nocm9tZV9XaWRnZXRXaW5fMSc=\"\n}\n",
+                    "EP_WINDOW_TITLE": "{\n    \"check\": \"true\",\n    \"val\": \"J+aWh+W/g+S4gOiogCAtIEdvb2dsZSBDaHJvbWUn\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2910",
+                "NodePy": "2766",
+                "NodeSubType": "EnumWidget_Win_Maximize",
+                "NodeTag": "20231105190955298371",
+                "NodeTitle": "最大化窗口"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": "",
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2309",
+                "NodePy": "2497.33",
+                "NodeSubType": "EnumWidget_Begin",
+                "NodeTag": "2020053011115875554",
+                "NodeTitle": "开始"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_2023121023491311565"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EIT_maximum": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EPC_browser_type": "{\n    \"val\": \"J2Nocm9tZSc=\"\n}\n",
+                    "EPC_param": "{\n    \"val\": \"\"\n}\n",
+                    "EPC_path": "{\n    \"val\": \"\"\n}\n",
+                    "EPC_timeout": "{\n    \"val\": \"\"\n}\n",
+                    "EPC_url": "{\n    \"val\": \"J2h0dHBzOi8vY21iY2hpbmEuY29tL2Nmd2ViL3BlcnNvbmFsL2RlZmF1bHQuYXNweCc=\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2521.67",
+                "NodePy": "2484",
+                "NodeSubType": "Custom_Browser01",
+                "NodeTag": "2023121023491311564",
+                "NodeTitle": "打开浏览器"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 1168,
+                    "mouse_y": 33
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_2023121023500550788"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n",
+                    "EP_Gen_WAITFOR": "{\n    \"val\": \"MTAwMDA=\"\n}\n"
+                },
+                "EP_SNAP_SHOT": {
+                    "EP_SNAP_SHOT_PREVIEW": "{\n    \"val\": \"L3NjcmVlbnNob3RzL3NuYXBzaG90XzIwMjMxMjEwMjM1MDIwMjI5LmpwZWc=\"\n}\n"
+                },
+                "EP_WINDOW": {
+                    "EP_WINDOW_CLASS": "{\n    \"check\": \"true\",\n    \"val\": \"J0Nocm9tZV9XaWRnZXRXaW5fMSc=\"\n}\n",
+                    "EP_WINDOW_TITLE": "{\n    \"check\": \"true\",\n    \"val\": \"J+aLm+WVhumTtuihjCAtLSDkuKrkurrnkIbotKLkuqflk4EgLSBHb29nbGUgQ2hyb21lJw==\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2691.67",
+                "NodePy": "2497.33",
+                "NodeSubType": "EnumWidget_Win_Maximize",
+                "NodeTag": "2023121023500550787",
+                "NodeTitle": "最大化窗口"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                    {
+                        "GID": "EP_WINDOW"
+                    }
+                ],
+                "InputProperty": {
+                    "mouse_x": 15,
+                    "mouse_y": 29
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_20231105191537008421"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EP_CONTROL_CHROME_ATTRMAP": "{\n    \"val\": \"eyJoYXNSZWFjaGVkUmVsYXRpdmVBbmNlc3RvciI6ImZhbHNlIiwiaXNUYWJsZSI6ImZhbHNlIiwibm9kZUhpZXJhcmNoeUluZm8iOlt7ImlzUHJlc2VudEluU2VsZWN0b3IiOjEsIm90aGVyQXR0cmlidXRlcyI6e30sInNlbGVjdG9ySW5mbyI6eyJhdHRyaWJ1dGVzIjp7ImNzcy1zZWxlY3RvciI6IiNESUFMT0dVRV9DQVJEX0xJU1RfSUQgPiBkaXY6bnRoLWNoaWxkKDEpID4gZGl2Om50aC1jaGlsZCgzKSA+IGRpdjpudGgtY2hpbGQoMSkgPiBkaXY6bnRoLWNoaWxkKDIpIiwicGFyZW50aWQiOiJESUFMT0dVRV9DQVJEX0xJU1RfSUQiLCJ0YWciOiJESVYiLCJ4cGF0aCI6Ii8vKltAaWQ9XCJESUFMT0dVRV9DQVJEX0xJU1RfSURcIl0vZGl2WzFdL2RpdlszXS9kaXZbMV0vZGl2WzJdIn0sImluZGV4IjowLCJ0YWdOYW1lIjoiRElWIn19XSwid2luZG93bmFtZSI6Il9fYmlkX249MTg2Y2IyZDJlZjE2ZmZjZDk4NDIwNyJ9\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_INPUT": {
+                    "EP_ExtractData": "{\n    \"val\": \"W3siYXR0ciI6WyJ0ZXh0Il0sImV4YWN0IjoxLCJuYW1lIjoiQ29sdW1uMCIsInBhdGgiOlt7InRhZyI6ImRpdiJ9XX1d\"\n}\n"
+                },
+                "EP_PageTurn": {
+                    "EP_CONTROL_CHROME_BUTTTON_ATTRMAP": "{\n    \"check\": \"true\",\n    \"val\": \"\"\n}\n",
+                    "EP_CONTROL_CHROME_BUTTTON_RUN_MODE": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_CONTROL_CHROME_BUTTTON_ScrollIntoView": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_CONTROL_IMAGE": "{\n    \"check\": \"true\",\n    \"val\": \"\"\n}\n",
+                    "EP_CONTROL_IMAGE_FUZZY_SIMILARITY": "{\n    \"val\": \"MC44NQ==\"\n}\n"
+                },
+                "EP_PuginConfig": {
+                    "EP_CONTROL_CHROME_BUTTON_sleep": "{\n    \"val\": \"MTAwMDA=\"\n}\n",
+                    "EP_CONTROL_CHROME_limit": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_CONTROL_CHROME_max_size": "{\n    \"val\": \"NTAw\"\n}\n"
+                },
+                "EP_SNAP_SHOT": {
+                    "EP_SNAP_SHOT_PREVIEW": "{\n    \"val\": \"L3NjcmVlbnNob3RzL3NuYXBzaG90XzIwMjMxMjExMDExNTU4NDk0LmpwZWc=\"\n}\n"
+                },
+                "EP_TableSetting": {
+                    "EP_CONTROL_CHROME_TABLE_setting": "{\n    \"val\": \"W3siRGF0YVR5cGUiOiJ0ZXh0IiwiSXNUYWJsZSI6MCwiSXNWaXNpYmxlIjoxLCJOYW1lIjoiQ29sdW1uMCIsIlJlZmVyZW5jZU5hbWUiOiJDb2x1bW4wIiwiVmFsdWUiOiJTcHJpbmcgaGFzIGFycml2ZWQsIGJyaW5naW5nIG5ldyBsaWZlIHRvIHRoZSB3b3JsZCBhcm91bmQgdXMuIEp1c3QgYXMgbmF0dXJlIGJsb29tcyBhbmQgZmxvdXJpc2hlcywgeW91ciBmaW5hbmNlcyBoYXZlIHRoZSBvcHBvcnR1bml0eSB0byBncm93IGFuZCB0aHJpdmUuIEludHJvZHVjaW5nIHRoZSBcIkJhbmsgb2YgQ2hpbmEgU3RlYWR5IFdlYWx0aCBDbG9zZWQtRW5kIDIzMTQ3LTM4NyBEYXlzIChIZXlpbmcpXCIgcHJvZHVjdCwgY29kZSBaWTAxMDI2Ny5cblxuV2l0aCBtZWRpdW0tbG93IHJpc2ssIHRoaXMgZml4ZWQtaW5jb21lIGZpbmFuY2lhbCBwcm9kdWN0IG9mZmVycyBhIHNlY3VyZSBvcHBvcnR1bml0eSBmb3IgZ3Jvd3RoLiBXaXRoIGEgcHJvZHVjdCBudW1iZXIgb2YgWjcwMDEwMjMwMDA1MzEsIGEgbWF0dXJlIGRhdGUgb2YgSmFudWFyeSA5dGgsIDIwMjUsIGFuZCBhIGR1cmF0aW9uIG9mIDM4NyBkYXlzLCB0aGUgaW52ZXN0bWVudCBwZXJpb2QgYmVnaW5zIG9uIERlY2VtYmVyIDEydGgsIDIwMjMsIGFuZCBlbmRzIG9uIERlY2VtYmVyIDE4dGgsIDIwMjMuXG5cblRoZSBwZXJmb3JtYW5jZSBjb21wYXJpc29uIGJhc2UgcmFuZ2UgaXMgYmV0d2VlbiAzLjEwJSBhbmQgMy42MCUsIG9mZmVyaW5nIGNvbXBldGl0aXZlIHJldHVybnMgb24geW91ciBpbnZlc3RtZW50LiBIb3dldmVyLCBpdD9zIGltcG9ydGFudCB0byBub3RlIHRoYXQgdGhlIHBlcmZvcm1hbmNlIGNvbXBhcmlzb24gYmFzZSBkb2VzIG5vdCByZXByZXNlbnQgZnV0dXJlIHBlcmZvcm1hbmNlIG9yIGFjdHVhbCByZXR1cm5zLlxuXG5UaGlzIGZpbmFuY2lhbCBwcm9kdWN0IGludmVzdHMgaW4gYSBtaXggb2YgbW9uZXRhcnkgbWFya2V0IGluc3RydW1lbnRzICgwJS0yMCUpLCBjcmVkaXQgYm9uZHMgKDAlLTgwJSksIGFuZCBub24tc3RhbmRhcmRpemVkIGRlYnQgYXNzZXRzICgwJS01MCUpLCB3aXRoIGEgcG9ydGZvbGlvIGxldmVyYWdlIHJhdGlvIG9mIDExNSUuIFRoZSBwZXJmb3JtYW5jZSBjb21wYXJpc29uIGJhc2UgaXMgY2FsY3VsYXRlZCBiYXNlZCBvbiB0aGUga25vd24geWllbGQgb2YgdGhlIENoaW5hIEJvbmQgLSBDb21wb3NpdGUgV2VhbHRoICgxLTMgeWVhcnMpIEluZGV4IGF0IHRoZSB0aW1lIG9mIGlzc3VhbmNlLCB0aGUgeWllbGQgb2Ygbm9uLXN0YW5kYXJkaXplZCBkZWJ0IGFzc2V0cyB3aXRoIG1hdGNoaW5nIG1hdHVyaXRpZXMsIGFuZCBjb25zaWRlcmluZyB0aGUgY29tcHJlaGVuc2l2ZSBmZWUgcmF0ZSwgY2FwaXRhbCBnYWlucyBpbmNvbWUsIGFuZCBwcm9kdWN0IGludmVzdG1lbnQgc3RyYXRlZ3kgb2YgdGhpcyBmaW5hbmNpYWwgcHJvZHVjdC5cblxuVGFrZSBhZHZhbnRhZ2Ugb2YgdGhlIHNlYXNvbiBvZiBncm93dGggYW5kIHJlbmV3YWwgYnkgaW52ZXN0aW5nIGluIHRoZSBCYW5rIG9mIENoaW5hIFN0ZWFkeSBXZWFsdGggQ2xvc2VkLUVuZCAyMzE0Ny0zODcgRGF5cyAoSGV5aW5nKSBwcm9kdWN0IHRvZGF5LiBTcHJpbmcgaXMgYSB0aW1lIGZvciBuZXcgYmVnaW5uaW5ncywgYW5kIHRoaXMgZmluYW5jaWFsIHByb2R1Y3Qgb2ZmZXJzIGEgZnJlc2ggc3RhcnQgZm9yIHlvdXIgZmluYW5jaWFsIGpvdXJuZXkuIERvbj90IG1pc3Mgb3V0IG9uIHRoZSBvcHBvcnR1bml0eSB0byBjdWx0aXZhdGUgd2VhbHRoIGFuZCBzZWN1cmUgeW91ciBmaW5hbmNpYWwgZnV0dXJlLiBBY3Qgbm93IGFuZCBsZXQgeW91ciBtb25leSBncm93IHdpdGggdGhlIHdhcm10aCBhbmQgdml0YWxpdHkgb2Ygc3ByaW5nLiIsImF0dHIiOiJ0ZXh0In1d\"\n}\n"
+                },
+                "EP_WINDOW": {
+                    "EP_CONTROL_CHROME_TITLE": "{\n    \"val\": \"J+aWh+W/g+S4gOiogCc=\"\n}\n",
+                    "EP_CONTROL_CHROME_URL": "{\n    \"val\": \"J2h0dHBzOi8veWl5YW4uYmFpZHUuY29tLyon\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2764.67",
+                "NodePy": "2986",
+                "NodeSubType": "EnumWidget_Chrome_ExtractData",
+                "NodeTag": "20231105191452842417",
+                "NodeTitle": "结构化抓取"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_20231105190332863239"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EIT_maximum": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EPC_browser_type": "{\n    \"val\": \"J2Nocm9tZSc=\"\n}\n",
+                    "EPC_param": "{\n    \"val\": \"\"\n}\n",
+                    "EPC_path": "{\n    \"val\": \"\"\n}\n",
+                    "EPC_timeout": "{\n    \"val\": \"\"\n}\n",
+                    "EPC_url": "{\n    \"val\": \"J2h0dHBzOi8veWl5YW4uYmFpZHUuY29tLyc=\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2691.67",
+                "NodePy": "2766",
+                "NodeSubType": "Custom_Browser01",
+                "NodeTag": "20231105190332863238",
+                "NodeTitle": "打开浏览器"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_2020053011133769057"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EPC_cell": "{\n    \"val\": \"J0syJw==\"\n}\n",
+                    "EPC_cell_type": "{\n    \"val\": \"Tm9uZQ==\"\n}\n",
+                    "EPC_path": "{\n    \"val\": \"J0M6L1VzZXJzL3poZ3VvL0Rlc2t0b3Av6JCl6ZSA5Lqn5ZOBLnhsc3gn\"\n}\n",
+                    "EPC_sheet": "{\n    \"val\": \"MA==\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeElementID": "",
+                "NodeModel": "2",
+                "NodePx": "2482",
+                "NodePy": "2766",
+                "NodeSubType": "Custom_excel001",
+                "NodeTag": "2020053011133768956",
+                "NodeTitle": "单元格读取"
+            }
+        }
+    ],
+    "SeqTag": "Main",
+    "ViewCenterPx": "2852",
+    "ViewCenterPy": "2752",
+    "ViewScaling": "0.5"
+}
